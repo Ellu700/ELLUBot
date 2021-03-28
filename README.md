@@ -1,2 +1,0 @@
-# ELLUBot
-ededsd
